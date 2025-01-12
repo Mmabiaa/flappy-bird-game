@@ -185,7 +185,7 @@ pipe_group = pg.sprite.Group()
 
 
 screen = pg.display.set_mode(SIZE)
-pg.display.set_caption("Flappy Birb")
+pg.display.set_caption("Flappy Bird")
 
 clock = pg.time.Clock()
 
