@@ -1,6 +1,8 @@
 # Flappy Bird Game in Pygame
 
 Welcome to the Flappy Bird game built with Pygame! This classic arcade-style game challenges players to navigate a bird through a series of pipes by tapping the space bar to flap its wings. The objective is to score points by passing through the pipes without crashing.
+![](https://github.com/Mmabiaa/flappy-bird-game/blob/Updated-branch/demo/demo.mp4)
+
 
 ## Table of Contents
 
