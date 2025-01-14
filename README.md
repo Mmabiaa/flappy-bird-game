@@ -1,6 +1,9 @@
 # Flappy Bird Game in Pygame
 
 Welcome to the Flappy Bird game built with Pygame! This classic arcade-style game challenges players to navigate a bird through a series of pipes by tapping the space bar to flap its wings. The objective is to score points by passing through the pipes without crashing.
+[![Watch the video](https://raw.githubusercontent.com/Mmabiaa/flappy-bird-game/Updated-branch/demo/thumbnail.jpg)](https://raw.githubusercontent.com/Mmabiaa/flappy-bird-game/Updated-branch/demo/demo.mp4)
+
+
 
 ## Table of Contents
 
@@ -25,22 +28,22 @@ To get started with the Flappy Bird game, follow these steps:
 
 1. **Clone the repository:**
 
-git clone https://github.com/yourusername/flappy-bird.git
-cd flappy-bird
+`git clone https://github.com/Mmabiaa/flappy-bird-game.git`
+`cd flappy-bird`
 
 
 2. **Install Pygame:**
 
 Make sure you have Python installed on your machine. You can install Pygame using pip:
 
-pip install pygame
+`pip install pygame`
 
 
 3. **Run the game:**
 
 Execute the following command in your terminal:
 
-python flappy_bird.py
+`python flappy_bird.py`
 
 
 ## Usage
