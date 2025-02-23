@@ -4,7 +4,6 @@ Welcome to the Flappy Bird game built with Pygame! This classic arcade-style gam
 [![Watch the video](https://raw.githubusercontent.com/Mmabiaa/flappy-bird-game/Updated-branch/demo/thumbnail.jpg)](https://raw.githubusercontent.com/Mmabiaa/flappy-bird-game/Updated-branch/demo/demo.mp4)
 
 
-
 ## Table of Contents
 
 - [Features](#features)
